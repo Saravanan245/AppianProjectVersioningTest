@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<processModelFolderHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <processModelFolder>
+        <name>VersioningTest</name>
+        <uuid>_g-0000dd04-4f39-8000-f92f-7f0000014e7a_529</uuid>
+        <description>Appian App Versioning Test</description>
+        <parentFolderUuid>_g-0000d8c3-a622-8000-f92f-7f0000014e7a_267</parentFolderUuid>
+    </processModelFolder>
+    <roleMap>
+        <role name="ADMIN_OWNER">
+            <users/>
+            <groups/>
+        </role>
+        <role name="EDITOR">
+            <users/>
+            <groups/>
+        </role>
+        <role name="EXPLICIT_NONMEMBER">
+            <users/>
+            <groups/>
+        </role>
+        <role name="VIEWER">
+            <users/>
+            <groups/>
+        </role>
+        <role name="MANAGER">
+            <users/>
+            <groups/>
+        </role>
+        <role name="INITIATOR">
+            <users/>
+            <groups/>
+        </role>
+    </roleMap>
+</processModelFolderHaul>

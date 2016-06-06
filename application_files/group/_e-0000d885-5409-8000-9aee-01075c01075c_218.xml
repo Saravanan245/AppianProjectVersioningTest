@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<groupHaul xmlns:a="http://www.appian.com/ae/types/2009">
+    <group>
+        <name>RYD_GBL_Administrators</name>
+        <securityMap>SECURITYMAP_PERSONAL</securityMap>
+        <uuid>_e-0000d885-5409-8000-9aee-01075c01075c_218</uuid>
+        <groupTypeUuid>SYSTEM_GROUP_TYPE_CUSTOM</groupTypeUuid>
+        <description>GBL components administrator</description>
+        <delegatedCreation>false</delegatedCreation>
+        <memberPolicy>MEMBERPOLICY_CLOSED</memberPolicy>
+        <viewingPolicy>VIEWINGPOLICY_HIGH</viewingPolicy>
+        <attributes/>
+    </group>
+    <members>
+        <users>
+            <userUuid>skommanaboyina</userUuid>
+            <userUuid>sarumugam1</userUuid>
+            <userUuid>sarumugam</userUuid>
+            <userUuid>mperez</userUuid>
+        </users>
+        <groups/>
+    </members>
+    <admins>
+        <users/>
+        <groups/>
+    </admins>
+    <ruleSet/>
+</groupHaul>
