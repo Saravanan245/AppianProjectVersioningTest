@@ -40,7 +40,7 @@
           <string-map>
             <pair>
               <locale country="US" lang="en" variant=""/>
-              <value><![CDATA[TST_Generate_UserLicense_CSV_Modified]]></value>
+              <value><![CDATA[TST_Generate_UserLicense_CSV]]></value>
             </pair>
           </string-map>
         </name>
@@ -1650,31 +1650,7 @@
           <on-create-ignore-if-active>false</on-create-ignore-if-active>
           <on-create-delete-previous-active>false</on-create-delete-previous-active>
           <on-complete-delete-previous-completed>false</on-complete-delete-previous-completed>
-          <pre-triggers>
-            <timer-trigger index="0">
-              <persistentId>0000dd12-c17c-8000-f92f-7f0000014e7a</persistentId>
-              <name><![CDATA[1st Day Of Every Month]]></name>
-              <desc/>
-              <rules/>
-              <schedule absoluteDelay="false"
-                isAbsoluteOrRelative="true" isRecurring="true">
-                <interval>
-                  <minutes>0</minutes>
-                </interval>
-              </schedule>
-              <recurrence>
-                <recurring-interval type="3">
-                  <monthly weekdaybased="false">
-                    <day-of-month>1</day-of-month>
-                    <month-interval>1</month-interval>
-                  </monthly>
-                  <timeExpr><![CDATA[=#"_a-0000da30-cba1-8000-9ba2-011c48011c48_111353"]]></timeExpr>
-                </recurring-interval>
-                <timeZoneId/>
-                <timeZoneIdExpr><![CDATA[=pm!timezone]]></timeZoneIdExpr>
-              </recurrence>
-            </timer-trigger>
-          </pre-triggers>
+          <pre-triggers/>
           <post-triggers/>
           <event-producers/>
           <exception-flow/>

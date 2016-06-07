@@ -3,7 +3,7 @@
     <application>
         <name>VersioningTest</name>
         <uuid>_a-0000dd0e-1392-8000-9ba2-011c48011c48_258365</uuid>
-        <description>Appian Application Versioning Test 11</description>
+        <description>Appian Application Versioning Test</description>
         <parentUuid>SYSTEM_APPLICATIONS_ROOT</parentUuid>
         <visibility>
             <advertise>false</advertise>
