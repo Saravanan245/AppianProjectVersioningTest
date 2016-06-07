@@ -40,7 +40,7 @@
           <string-map>
             <pair>
               <locale country="US" lang="en" variant=""/>
-              <value><![CDATA[TST_Generate_UserLicense_CSV]]></value>
+              <value><![CDATA[TST_Generate_UserLicense_CSV_Modified]]></value>
             </pair>
           </string-map>
         </name>
