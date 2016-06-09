@@ -194,7 +194,9 @@
                 <groups/>
             </role>
             <role allowForAll="false" inherit="false" name="administrators">
-                <users/>
+                <users>
+                    <userUuid>sarumugam</userUuid>
+                </users>
                 <groups/>
             </role>
             <role allowForAll="false" inherit="false" name="denyReaders">

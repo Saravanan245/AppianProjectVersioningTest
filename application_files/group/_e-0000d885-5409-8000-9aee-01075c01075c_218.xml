@@ -13,7 +13,10 @@
     </group>
     <members>
         <users>
+            <userUuid>rcr</userUuid>
             <userUuid>skommanaboyina</userUuid>
+            <userUuid>t_rvaradarajan</userUuid>
+            <userUuid>cpunthambaker</userUuid>
             <userUuid>sarumugam1</userUuid>
             <userUuid>sarumugam</userUuid>
             <userUuid>mperez</userUuid>
@@ -21,8 +24,10 @@
         <groups/>
     </members>
     <admins>
-        <users/>
+        <users>
+            <userUuid>t_rvaradarajan</userUuid>
+        </users>
         <groups/>
     </admins>
     <ruleSet/>
-</groupHaul> 
+</groupHaul>
